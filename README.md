@@ -1,7 +1,7 @@
-# MachineLearning-Python
+## MachineLearning-Python
 =====================================
 
-Applying Machine Learning Algorithms on public datasets
+#Applying Machine Learning Algorithms on public datasets
 
 ML Algorithms
 
