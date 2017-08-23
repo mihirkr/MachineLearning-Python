@@ -1,2 +1,10 @@
 # MachineLearning-Python
-Machine Learning with Python
+=====================================
+
+Applying Machine Learning Algorithms on public datasets
+
+ML Algorithms
+
+* Linear Regression
+* Logistic Regression
+* KNN
