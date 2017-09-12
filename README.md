@@ -8,3 +8,4 @@ ML Algorithms
 * Linear Regression
 * Logistic Regression
 * KNN
+* SVM 
