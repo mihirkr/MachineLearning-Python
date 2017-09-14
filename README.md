@@ -9,3 +9,5 @@ ML Algorithms
 * Logistic Regression
 * KNN
 * SVM 
+* Naive-Bayes
+* Random Forest
