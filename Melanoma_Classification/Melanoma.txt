@@ -1,0 +1,35 @@
+Melanoma
+
+In the period 1962-77, 205 patients with malignant melanoma (cancer of
+the skin) had a radical operation performed at Odense University
+Hospital, Denmark. All patients were followed until the end of 1977 by 
+which time 134 were still alive while 71 had died (of out whom 57 had
+died from cancer and 14 from other causes).
+
+The object of the study was to assess the effect of risk factors on
+survival. Among such risk factors were the sex and age of the patients
+and the histological variables tumor thickness and ulceration (absent
+vs. present).
+
+The data file includes the variables:
+
+DC 	 death/censoring indicator 
+	 1 = death from malignant melanoma, 
+         2 = alive 31DEC77, 
+         3 = death from other causes
+
+DAYS 	 time in days from operation
+
+LEVEL 	 level of invasion, 0, 1 or 2
+
+ICI 	 inflammatory cell infiltration (ICI), 0, 1, 2 or 3
+
+ECEL 	 presence of epithelioid cells, 1=no, 2=yes
+
+ULC 	 presence of ulceration, 0=no, 1=yes
+
+THICK 	 tumour thickness (in mm)
+
+SEX 	 sex, 0=F, 1=M
+
+AGE 	 age at operation (years)
