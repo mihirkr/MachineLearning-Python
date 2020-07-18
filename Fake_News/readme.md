@@ -1,6 +1,7 @@
 Fake news classifier
 
 language : python
+
 data source: https://www.kaggle.com/c/fake-news
 
 libraries used:
